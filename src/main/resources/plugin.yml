@@ -1,0 +1,6 @@
+name: events
+version: '${project.version}'
+main: me.jason.events.main.Main
+api-version: 1.17
+authors: [ jason ]
+description: events
